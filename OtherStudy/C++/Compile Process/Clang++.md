@@ -1,0 +1,2 @@
+`Clang++` 是 Clang C/C++/Objective-C 编译器的前端，专门用于编译 C++ 代码。Clang 是一个基于 LLVM（Low Level Virtual Machine）项目的编译器前端，支持多种编程语言，包括 C、C++、Objective-C 和 Objective-C++。
+`Clang++` 特别强调为 C++ 提供了快速的编译速度和准确的错误诊断。它是 GCC（GNU Compiler Collection）的一个流行替代品，特别是在需要高性能编译器的场景下

@@ -1,0 +1,1 @@
+https://jyywiki.cn/OS/2022/index.html
