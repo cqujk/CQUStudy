@@ -31,4 +31,4 @@
 处理事务拆成两部分，即接收事务与实际的处理事务
 > 据流图的几点说明 
 
-[[CQUStudy/Class/Junior/Autumn 2024/SoftWare/Repo/数据流图.pdf#page=7&selection=2,5,3,1|数据流图, 页面 7]]
+[[数据流图.pdf#page=7&selection=2,5,3,1|数据流图, 页面 7]]
