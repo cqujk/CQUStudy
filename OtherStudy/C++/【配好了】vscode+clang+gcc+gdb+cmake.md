@@ -1,5 +1,5 @@
 [[ vscode + clangd + gcc + gdb + cmake] 一文带你构造C/C++开发环境 #支持嵌入式开发 #超详细 #小白_vscode_ElderlyPeng-开放原子开发者工作坊 (csdn.net)](https://openatomworkshop.csdn.net/66470558b12a9d168eb6ef88.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTU4NzMxOSwiZXhwIjoxNzI3MjY2NTE3LCJpYXQiOjE3MjY2NjE3MTcsInVzZXJuYW1lIjoibTBfNzM1NTM0MTEifQ.UZjVDvc3gmLZiejC2102uvaeJDSNLGZ1AU66Czr96A0&spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-3-134235159-blog-115601111.235%5Ev43%5Epc_blog_bottom_relevance_base8&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-3-134235159-blog-115601111.235%5Ev43%5Epc_blog_bottom_relevance_base8&utm_relevant_index=6)
-![[Pasted image 20240918202700.png]] 
+![[CQUStudy/OtherStudy/C++/image/Pasted image 20240918202700.png]] 
 
 1. github上下载的源码只有一堆.c/.h文件，不是vs工程，如何在源码上进行构建开发？
 2. 发布开源工程，要告诉别人怎么使用我的库好麻烦，如果编译等过程可以用命令行写成脚本，整个过程自动完成就好了

@@ -1,6 +1,6 @@
 GIt 有三东西，一个是版本库，一个是工作区，还有一个是暂存区
 Git 提交分为两步，第一个先是添加 add, 然后再是 commit 提交
-![[Pasted image 20240927115647.png]]
+![[CQUStudy/OtherStudy/Git/InitialLearn/image/Pasted image 20240927115647.png]]
 第一步是用 `git add` 把文件添加进去，实际上就是把文件修改*添加到暂存区*
 第二步是用 `git commit` 提交更改，实际上就是把*暂存区的所有内容提交到当前分支。*
 需要提交的文件*修改通通放到暂存区*，然后，一次性*提交暂存区的所有修改*
@@ -59,10 +59,10 @@ Git支持多种协议，包括 `https`，但 `ssh` 协议速度最快
 
 **两种方式，**
 *第一种是用 SSH 的方式*
-![[Pasted image 20240927164213.png]]
+![[CQUStudy/OtherStudy/Git/InitialLearn/image/Pasted image 20240927164213.png]]
 *第二种是用 https的*
 用`https://github.com/michaelliao/gitskills.git`这样的地址
-![[Pasted image 20240927164231.png]]
+![[CQUStudy/OtherStudy/Git/InitialLearn/image/Pasted image 20240927164231.png]]
 
 使用 `https` 除了速度慢以外，还有个最大的麻烦是每次推送都必须输入口令，但是在某些只开放 `http` 端口的公司内部就无法使用 `ssh` 协议而只能用 `https`
 
