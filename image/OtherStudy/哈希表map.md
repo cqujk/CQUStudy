@@ -1,1 +1,0 @@
-Map<string, string>类型，就类似于一个数组
